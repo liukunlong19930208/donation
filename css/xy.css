@@ -1,0 +1,209 @@
+
+@media screen and (max-width:1150px){
+        .container-fluid{
+             width:800px;
+             
+        }
+
+        .slide{
+          width: 800px;
+        }
+        .donation1 .line {
+            width: 800px;
+        }
+        .main .logo{
+        	width: 200px;
+  			  background-size: 80%;
+  			  background-position: left center;
+        }
+        .info .col-4 p {
+            text-align: center;
+      }
+        .info .col-4 .icon {
+		    float: none;
+		    margin: 0 auto 10px;
+       }
+       .info .col-4 h3 {
+           text-align: center;
+       }
+      .donation1 .col-6.but a {
+		    width: 350px;
+		    font-size: 20px;
+       }
+       .news .news1 .more {
+             width: 100%;
+        }
+        .bottom .text h3 {
+            font-size: 13px;
+       }
+       .bottom .text {
+             top: 40%;
+        }
+ }      
+@media screen and (max-width:850px){
+        .container-fluid{
+             width:500px;
+             
+        }
+       .donation1 .line {
+            width: 500px;
+        }
+         
+        .header .right .email{
+        	display:none;
+        }
+        .header .right .donation{
+        	display:none;
+        }
+        .main .btn{
+        	display: block;
+        }
+        .main .nav{
+             display:none;
+        }
+        .info .col-4:nth-child(3n+1) {
+               padding-right: 30px;
+     }
+        .info .col-4 h3 {
+              font-size: 14px;
+        }
+        .donation1 .col-6.text {
+			  width: 100%;
+			  text-align: center;
+			  margin: 0 0 20px 0;
+			  padding: 0;
+       }
+       .donation1 .col-6.but {
+			    width: 100%;
+			    padding: 0;
+			    margin: 0;
+			    text-align: center;
+       }
+       .col-2i {
+			    width: 50%;
+			    margin-bottom: 20px;
+        }
+        .help .col-6.zuo, .help .col-6.you {
+			    width: 100%;
+			    padding: 0;
+			    margin-bottom: 20px;
+        }
+         .news .news1{
+			    padding: 0;
+			    width: 100%;
+			    margin-bottom: 20px;
+        }
+        .news .about{
+			    padding: 0;
+			    width: 100%;
+			    margin-bottom: 20px;
+        }
+        .news .photos{
+			    padding: 0;
+			    width: 100%;
+			    margin-bottom: 20px;
+        }
+       .news .photo-slider .col-6 {
+		    width: 33.333333333333%;
+		    padding: 0 5px !important;
+        }
+        .bottom .col-4 {
+		    width: 100%;
+		    padding: 0 !important;
+		    margin-bottom: 15px;
+        }
+         .lastline .links {
+		    float: none;
+		    width: 100%;
+		    text-align: center;
+         }
+          .lastline .copy {
+		    margin-top: 10px;
+		    float: none;
+         }
+          .lastline .links a {
+             margin-right: 15px;
+         }
+          .footer .col-4 {
+    		    width: 100%;
+    		    padding: 0 !important;
+    		    margin-bottom: 40px;
+          }
+          .help h2, .latest-donations h2 {
+             font-size: 30px;
+          }
+          .slide{
+             width: 500px;
+             height:255px;
+         }
+         .slide .jian .zuo{
+          left:0px;
+        }
+        .slide .jian .you{
+          right:0px;
+        }
+}
+@media screen and (max-width:550px){
+        .container-fluid{
+             width:260px;
+             
+        }
+        
+        .slide{
+          width: 260px;
+          height: 133px;
+        }
+        .slide .jian .zuo{
+          left:3px;
+        }
+        .slide .jian .you{
+          right:3px;
+        }
+        .donation1 .line {
+            width: 260px;
+        }
+        .header .right .name{
+        	display:none;
+        }
+        .header .right .search{
+        	border-right:0;
+        }
+        .header .right .text{
+        	width: 128px;
+        }
+        .container-fluid .tel{
+        	font-size:14px;
+        }
+        .info .col-4 {
+		    width: 100%;
+		    padding: 0 !important;
+		    margin-bottom: 15px;
+     }
+        .col-2i {
+           width: 100%;
+      }
+       .news .photo-slider .col-6 {
+          width: 50%;
+      }
+      .help .more{
+        width: 100%;
+      }
+      
+      .help .c1{
+           width: 100%;
+        }
+      .help .c2{
+           width: 100%;
+      }
+      .help .c3{
+           width: 100%;
+      }
+    .donation1 .col-6.but a {
+        font-size: 14px;
+        width: 240px;
+      }
+      .donation1 .col-6.text h4{
+        font-size:14px;
+      }
+
+}	
